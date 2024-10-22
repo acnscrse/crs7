@@ -1,18 +1,18 @@
 # Multiple VPC Networks || [GSP211](https://www.cloudskillsboost.google/focuses/22772?parent=catalog) ||
 
 ## Solution [here](https://youtu.be/iEayif0tUZQ)
-
+## INI HANYA TERINSPIRASI DARI PEMILIK ASLI(MERUBAH & MENGUPDATE SEDIKIT CODE)
 ### Run the following Commands in CloudShell
 ```
 export ZONE=
 export REGION_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Multiple%20VPC%20Networks/gsp211.sh
+curl -LO https://raw.githubusercontent.com/acnscrse/crs7/main/course7shell.sh
 
-sudo chmod +x gsp211.sh
+sudo chmod +x course7shell.sh
 
-./gsp211.sh
+./course7shell.sh
 ```
 
 ### Congratulations 🎉 for Completing the Lab !
